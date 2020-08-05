@@ -5,8 +5,8 @@ name: Python application
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 04:05
+    - cron: '5 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - name: Run
+    - name: Run main.py
       run: |
         python main.py
 
