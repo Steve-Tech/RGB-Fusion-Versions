@@ -2,8 +2,12 @@ https://download.gigabyte.com/FileList/Utility/mb_utility_rgb-fusion_B18.0530.1.
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B19.0905.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B19.0919.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B19.1030.1.zip
+https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0110.1.zip
+https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0122.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0330.2.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0430.1.zip
+https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0513.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0529.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0708.1.zip
 https://download.gigabyte.com/FileList/Utility/mb_utility_rgb_fusion_B20.0721.1.zip
+https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B20.0721.1.zip
