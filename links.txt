@@ -29,3 +29,4 @@ https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B21.1210.1.zip
 https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B22.0211.1.zip
 https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B22.0329.1.zip
 https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B22.0414.1.zip
+https://download.gigabyte.com/FileList/Utility/RGB_Fusion_B22.0525.1.zip
