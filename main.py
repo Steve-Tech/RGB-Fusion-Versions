@@ -3,8 +3,8 @@ from re import search
 
 print("Checking Gigabyte Website...")
 
-webdata = get("https://www.gigabyte.com/MicroSite/512/download.html")
-RGB_Fusion_Link = search(r"https://download\.gigabyte\.com/FileList/Utility/.*?\.zip", webdata.text)
+webdata = get("https://www.gigabyte.com/Ajax/SupportFunction/GetUtilityAjax")
+RGB_Fusion_Link = search(r"https://download\.gigabyte\.com/FileList/Utility/RGB_Fusion_.[0-9.]*\.zip", webdata.text)
 
 if RGB_Fusion_Link:
     with open("links.txt", 'r+') as f:

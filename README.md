@@ -3,4 +3,4 @@ This is a simple Python script that runs daily as a GitHub workflow and adds the
 
 #### [Click here for the links](https://github.com/Steve-Tech/RGB-Fusion-Versions/blob/master/links.txt)
 
-Also Gigabyte's version codes follow the format mb_utility_rgb_fusion_B[YY].[MM][Patch].[Patch] (where YY = 2 digit year and MM = 2 digit month)
+Also Gigabyte's version codes follow the format RGB_Fusion_B[YY].[MM][DD].[Patch] (where YY = 2 digit year and MM = 2 digit month)
